@@ -1,0 +1,1 @@
+This is the first attempt to actually build something on my own. Im going to try and apply what I have been learning over this past week. This being HTML, CSS, utilizing the command line, and Chrome DevTools.
